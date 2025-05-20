@@ -1,5 +1,5 @@
 {
-    "name": "dotdigital/dotdigital-magento2-extension-chat",
+    "name": "caplascencia/dotdigital-magento2-extension-chat",
     "description": "Dotdigital for Magento 2: Chat module",
     "type": "magento2-module",
     "version": "1.7.2",
